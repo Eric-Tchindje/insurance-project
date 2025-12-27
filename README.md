@@ -104,7 +104,7 @@ insurance-nosql-pipeline/
 ### 6. PowerBI Dashboard
 
 
-<img width="1341" height="1091" alt="dashboard" src="https://github.com/Eric-Tchindje/insurance-project/blob/master/image-project/Screenshot%202025-12-27%20171804.png" />
+<img width="1341" height="1091" alt="dashboard" src="https://github.com/Eric-Tchindje/insurance-project/blob/master/image-project/dasboard.png" />
 
 
 
