@@ -125,5 +125,5 @@ insurance-nosql-pipeline/
 
 **Author:** *Eric Tchindje*  
 **LinkedIn:** [Eric Tchindje](https://www.linkedin.com/in/eric-tchindje/)  
-**Contact:** [datawithjay1@gmail.com](mailto:tchindjeeric61@gmail.com)
+**Contact:** [tchindjeeric61@gmail.com](mailto:tchindjeeric61@gmail.com)
 
