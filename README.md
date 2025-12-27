@@ -19,8 +19,6 @@ This pipeline gives you a **clear blueprint of how modern data engineering proje
 
 ---
 
-<img width="1341" height="1091" alt="Insurance" src="https://github.com/Eric-Tchindje/insurance-project/blob/master/image-project/Screenshot%202025-12-27%20171804.png" />
-
 
 
 ## ⚡ Tech Stack
@@ -104,6 +102,12 @@ insurance-nosql-pipeline/
 - Create **final summary model** (`claims_summary`) → aggregates claims by month, type, and fraud.  
 
 ### 6. PowerBI Dashboard
+
+
+<img width="1341" height="1091" alt="Insurance" src="https://github.com/Eric-Tchindje/insurance-project/blob/raw/image-project/Screenshot%202025-12-27%20171804.png" />
+
+
+
 - Connect to **Snowflake** (`claims_summary` table).  
 - Create visualizations.
 - Makes insights **clear, visual, and business-ready**.  
