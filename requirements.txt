@@ -1,0 +1,6 @@
+dbt-core
+dbt-snowflake
+Faker
+pymongo
+python-dotenv
+requests
