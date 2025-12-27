@@ -19,6 +19,8 @@ This pipeline gives you a **clear blueprint of how modern data engineering proje
 
 ---
 
+
+
 ## ⚡ Tech Stack
 - **MongoDB** → NoSQL OLTP database  
 - **Airbyte** → ETL/ELT connector (Ingest data to warehouse)  
@@ -100,6 +102,12 @@ insurance-nosql-pipeline/
 - Create **final summary model** (`claims_summary`) → aggregates claims by month, type, and fraud.  
 
 ### 6. PowerBI Dashboard
+
+
+<img width="1341" height="1091" alt="dashboard" src="https://github.com/Eric-Tchindje/insurance-project/blob/master/image-project/Screenshot%202025-12-27%20171804.png" />
+
+
+
 - Connect to **Snowflake** (`claims_summary` table).  
 - Create visualizations.
 - Makes insights **clear, visual, and business-ready**.  
